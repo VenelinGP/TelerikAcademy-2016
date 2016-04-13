@@ -1,0 +1,6 @@
+D:\C# 1 -Exams Contest\05. Conditional-Statements\06.Biggest of 5\bin\Debug\06.Biggest of 5.exe.config
+D:\C# 1 -Exams Contest\05. Conditional-Statements\06.Biggest of 5\bin\Debug\06.Biggest of 5.exe
+D:\C# 1 -Exams Contest\05. Conditional-Statements\06.Biggest of 5\bin\Debug\06.Biggest of 5.pdb
+D:\C# 1 -Exams Contest\05. Conditional-Statements\06.Biggest of 5\obj\Debug\06.Biggest of 5.csprojResolveAssemblyReference.cache
+D:\C# 1 -Exams Contest\05. Conditional-Statements\06.Biggest of 5\obj\Debug\06.Biggest of 5.exe
+D:\C# 1 -Exams Contest\05. Conditional-Statements\06.Biggest of 5\obj\Debug\06.Biggest of 5.pdb

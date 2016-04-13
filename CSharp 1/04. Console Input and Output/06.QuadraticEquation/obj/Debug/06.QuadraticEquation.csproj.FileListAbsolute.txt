@@ -1,0 +1,6 @@
+D:\C# 1 -Exams Contest\04. Console-In-and-Out\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+D:\C# 1 -Exams Contest\04. Console-In-and-Out\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+D:\C# 1 -Exams Contest\04. Console-In-and-Out\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+D:\C# 1 -Exams Contest\04. Console-In-and-Out\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.csprojResolveAssemblyReference.cache
+D:\C# 1 -Exams Contest\04. Console-In-and-Out\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+D:\C# 1 -Exams Contest\04. Console-In-and-Out\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb

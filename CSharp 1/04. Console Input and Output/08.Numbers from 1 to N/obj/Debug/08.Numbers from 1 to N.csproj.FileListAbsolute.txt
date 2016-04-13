@@ -1,0 +1,5 @@
+D:\C# 1 -Exams Contest\04. Console-In-and-Out\08.Numbers from 1 to N\bin\Debug\08.Numbers from 1 to N.exe.config
+D:\C# 1 -Exams Contest\04. Console-In-and-Out\08.Numbers from 1 to N\bin\Debug\08.Numbers from 1 to N.exe
+D:\C# 1 -Exams Contest\04. Console-In-and-Out\08.Numbers from 1 to N\bin\Debug\08.Numbers from 1 to N.pdb
+D:\C# 1 -Exams Contest\04. Console-In-and-Out\08.Numbers from 1 to N\obj\Debug\08.Numbers from 1 to N.exe
+D:\C# 1 -Exams Contest\04. Console-In-and-Out\08.Numbers from 1 to N\obj\Debug\08.Numbers from 1 to N.pdb

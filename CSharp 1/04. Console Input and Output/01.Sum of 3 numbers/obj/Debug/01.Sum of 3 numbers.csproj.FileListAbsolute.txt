@@ -1,0 +1,6 @@
+D:\C# 1 -Exams Contest\04. Console-In-and-Out\01.Sum of 3 numbers\bin\Debug\01.Sum of 3 numbers.exe.config
+D:\C# 1 -Exams Contest\04. Console-In-and-Out\01.Sum of 3 numbers\bin\Debug\01.Sum of 3 numbers.exe
+D:\C# 1 -Exams Contest\04. Console-In-and-Out\01.Sum of 3 numbers\bin\Debug\01.Sum of 3 numbers.pdb
+D:\C# 1 -Exams Contest\04. Console-In-and-Out\01.Sum of 3 numbers\obj\Debug\01.Sum of 3 numbers.csprojResolveAssemblyReference.cache
+D:\C# 1 -Exams Contest\04. Console-In-and-Out\01.Sum of 3 numbers\obj\Debug\01.Sum of 3 numbers.exe
+D:\C# 1 -Exams Contest\04. Console-In-and-Out\01.Sum of 3 numbers\obj\Debug\01.Sum of 3 numbers.pdb

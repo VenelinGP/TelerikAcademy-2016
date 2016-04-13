@@ -1,0 +1,6 @@
+D:\C# 1 -Exams Contest\05. Conditional-Statements\01.Exchange numbers\bin\Debug\01.Exchange numbers.exe.config
+D:\C# 1 -Exams Contest\05. Conditional-Statements\01.Exchange numbers\bin\Debug\01.Exchange numbers.exe
+D:\C# 1 -Exams Contest\05. Conditional-Statements\01.Exchange numbers\bin\Debug\01.Exchange numbers.pdb
+D:\C# 1 -Exams Contest\05. Conditional-Statements\01.Exchange numbers\obj\Debug\01.Exchange numbers.csprojResolveAssemblyReference.cache
+D:\C# 1 -Exams Contest\05. Conditional-Statements\01.Exchange numbers\obj\Debug\01.Exchange numbers.exe
+D:\C# 1 -Exams Contest\05. Conditional-Statements\01.Exchange numbers\obj\Debug\01.Exchange numbers.pdb
