@@ -1,1 +1,0 @@
-D:\C# 1 -Exams Contest\05. Conditional-Statements\05.Biggest of 3\bin\Debug\05.Biggest of 3.exe.config

@@ -1,6 +1,0 @@
-D:\C# 1 -Exams Contest\04. Console-In-and-Out\03.Circle\bin\Debug\03.Circle.exe.config
-D:\C# 1 -Exams Contest\04. Console-In-and-Out\03.Circle\bin\Debug\03.Circle.exe
-D:\C# 1 -Exams Contest\04. Console-In-and-Out\03.Circle\bin\Debug\03.Circle.pdb
-D:\C# 1 -Exams Contest\04. Console-In-and-Out\03.Circle\obj\Debug\03.Circle.csprojResolveAssemblyReference.cache
-D:\C# 1 -Exams Contest\04. Console-In-and-Out\03.Circle\obj\Debug\03.Circle.exe
-D:\C# 1 -Exams Contest\04. Console-In-and-Out\03.Circle\obj\Debug\03.Circle.pdb
