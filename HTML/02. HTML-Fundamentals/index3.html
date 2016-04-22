@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Doge Social Network</title>
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="css/style3.css" type="text/css">
+</head>
+<body onload="loadHome()">
+<h1>Doge Social Network</h1>
+<button class="btn-change btn btn-primary pull-right">Change Button's Style</button>
+<ul id="headerButtons">
+    <li><a href="#" onclick="loadHome()">Home</a></li>
+    <li><a href="#" onclick="loadProfile()">Profile</a></li>
+    <li><a href="#" onclick="loadFriends()">Friends</a></li>
+</ul>
+<hr>
+<div id="content"></div>
+<script src="js/jquery.js"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
+<script>
+    function loadHome(){
+        $( "#content" ).load( "templates/home.html" );
+    }
+    function loadProfile(){
+        $( "#content" ).load( "templates/profile.html" );
+    }
+    function loadFriends(){
+        $( "#content" ).load( "templates/friends.html" );
+    }
+</script>
+<script>
+    $(document).ready(function(){
+        $("button").click(function(){
+            $("#headerButtons").toggleClass("list-inline");
+            $("a").toggleClass("btn btn-info btn-display");
+        });
+    });
+</script>
+</body>
+</html>

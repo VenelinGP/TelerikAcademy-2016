@@ -1,0 +1,32 @@
+label, input{
+    margin: 2px 0;
+}
+
+
+#calculator {
+    border: 2px solid #9EDEED;
+    background: #F3F9FA;
+    width: 256px;
+    padding-left: 3px;
+ }
+
+input{
+    color: #8CF4F2;
+    background: transparent;
+    font: bold 32px verdana;
+    height: 60px;
+    width: 60px;
+    text-shadow: 3px 2px 4px #969696;
+    padding-right: 12px;
+}
+
+input[type=text]{
+    border: hidden;
+    width: 76px;
+    padding-left: 165px;
+}
+
+#zero {
+    padding: 0 20px;
+    width: 124px;
+}

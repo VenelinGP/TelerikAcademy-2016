@@ -1,0 +1,11 @@
+label, input{
+    margin: 5px 0;
+}
+
+#lbl_email, #lbl_school {
+    margin-left: 49px;
+}
+
+#btn_submit {
+    margin: 15px 15px 15px 115px;
+}
